@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatementsAdvanced/ConditionalStatementsAdvanced.iml" filepath="$PROJECT_DIR$/ConditionalStatementsAdvanced/ConditionalStatementsAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstStepsInCoding/FirstStepsInCoding.iml" filepath="$PROJECT_DIR$/FirstStepsInCoding/FirstStepsInCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedLoops/NestedLoops.iml" filepath="$PROJECT_DIR$/NestedLoops/NestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleOperations/SimpleCalculationsAndOperations.iml" filepath="$PROJECT_DIR$/SimpleOperations/SimpleCalculationsAndOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftUniJavaBasics.iml" filepath="$PROJECT_DIR$/SoftUniJavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+    </modules>
+  </component>
+</project>
